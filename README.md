@@ -4,10 +4,3 @@
   <!-- GitHub Top Language Card -->
   <img align=top src="https://github-readme-stats.vercel.app/api/top-langs?username=Buried-In-Code&langs_count=6&layout=compact&theme=dracula" />
 </div>
-<br />
-<div>
-  <!-- Comic Organizer Card --> 
-  <img align=top src="https://github-readme-stats.vercel.app/api/pin?username=Buried-In-Code&repo=Comic-Organizer&theme=dracula" />
-  <!-- Path of Taurewa Card --> 
-  <img align=top src="https://github-readme-stats.vercel.app/api/pin?username=Buried-In-Code&repo=Path-of-Taurewa&theme=dracula" />
-</div>
