@@ -1,9 +1,5 @@
-**GitHub Stats ⚡**
-
-![Github Trophies](https://github-profile-trophy.vercel.app/?username=Buried-In-Code&theme=onedark&margin-w=8&margin-h=8&column=-1)
-
----
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Buried-In-Code&theme=onedark&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=Buried-In-Code%27s+GitHub+Stats&layout=compact)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Buried-In-Code&theme=onedark&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=Buried-In-Code%27s+Top+Languages&layout=compact)
+<div align="center">
+  <h2>⚡ GitHub Stats ⚡</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=Buried-In-Code&theme=transparent&show_icons=true&count_private=true&include_all_commits=true&layout=compact" alt="Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buried-In-Code&theme=transparent&show_icons=true&count_private=true&include_all_commits=true&layout=compact" alt="Top Langs" />
+</div>
