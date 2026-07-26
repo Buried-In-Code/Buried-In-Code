@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">BuriedInCode's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 69, Total Commits  : 967, Total PRs: 269, Total Issues: 112, Contributed to (last year): 6</desc>
+        <desc id="descId">Total Stars Earned: 69, Total Commits  : 967, Total PRs: 270, Total Issues: 112, Contributed to (last year): 6</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 78.27442571218404;
+        stroke-dashoffset: 78.25365329070107;
       }
     }
   
@@ -181,7 +181,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >269</text>
+      >270</text>
     </g>
   </g><g transform="translate(0, 72)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
